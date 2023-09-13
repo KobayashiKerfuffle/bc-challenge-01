@@ -1,6 +1,3 @@
-# bc-challenge-01
-01 HTML, CSS, and Git: Code Refactor
-
 # Horiseon Marketing Solutions - Accessibility Update
 
 Horiseon Marketing Solutions offers cutting-edge solutions for digital presence and online marketing. This repository contains the codebase for the Horiseon website, which has been updated to meet accessibility standards.
@@ -31,10 +28,10 @@ The primary goal of this update was to make sure the website adheres to accessib
 
 ## Changes Made
 
-- Semantic HTML Elements: Non-semantic elements like <div> have been replaced with semantic ones such as <header>, <nav>, <section>, <article>, <aside>, and <footer>.
+- Semantic HTML Elements: Non-semantic elements like `<div>` have been replaced with semantic ones such as `<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, and `<footer>`.
 - Logical Structure: Adjustments have been made to ensure that the structure of HTML is logical and consistent, irrespective of the CSS styling.
 - Accessible Alt Attributes: All images now contain meaningful alt attributes to ensure screen readers can effectively communicate their purpose.
-- Heading Structure: Headings (<h1>, <h2>, etc.) have been organized to follow a sequential and hierarchical structure.
+- Heading Structure: Headings (`<h1>`, `<h2>`, etc.) have been organized to follow a sequential and hierarchical structure.
 - Descriptive Title: The title has been updated to "Horiseon Marketing Solutions" to more accurately describe the site's content.
 - CSS Updates: The CSS has been refactored to clean up redundancies and ensure styles match the updated HTML structure.
 
